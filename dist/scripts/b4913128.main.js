@@ -1,0 +1,1 @@
+(function(e){var t=e.App=Ember.Application.create();t.Router.map(function(){}),t.IndexRoute=Ember.Route.extend({model:function(){return["red","yellow","blue"]}})})(this);
